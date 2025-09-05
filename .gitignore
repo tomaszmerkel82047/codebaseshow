@@ -6,3 +6,4 @@ dist/
 .venv/
 build/
 node_modules/
+*.tmp
