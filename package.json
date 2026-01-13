@@ -1,6 +1,6 @@
 {
   "name": "codebaseshow",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A collection of codebase examples to help you create your next project",
   "main": "src/index.ts",
   "scripts": {
